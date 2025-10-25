@@ -6,7 +6,7 @@ Author: Joseph Adu-Parkoh
 <div align="center">
 
   <!-- Banner Image -->
-  <img src="https://i.imgur.com/9pGQfAA.png" alt="Coding Banner" width="100%" />
+ 
 
   <h1>👋 Hi, I'm Joseph Adu-Parkoh</h1>
   <p><em>ALX Software Engineering Learner | Aspiring Full-Stack Developer | Passionate About Solving Tech Problems in Society</em></p>
