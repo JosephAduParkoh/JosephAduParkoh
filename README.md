@@ -91,7 +91,7 @@ Stay tuned — exciting things are in progress! ✨
 I’m always open to collaboration, mentorship, and new learning opportunities.
 
 - 📧 **Email:** [josephaduparkoh@gmail.com](mailto:josephaduparkoh@gmail.com)  
-- 💼 **LinkedIn:** *(coming soon)*  
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/joseph-adu-parkoh-152058188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
 - 🌍 **GitHub:** [github.com/JosephAduParkoh](https://github.com/JosephAduParkoh)
 
 ---
